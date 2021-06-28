@@ -12,8 +12,7 @@ In this worksheet we will develop a controller to make decisions for the robot. 
 
 In this worksheet we will learn about a more realistic response from a sensor used in robotics.  We will consider how to model a real sensor in our minimal 2D simulator.  You can then update your simulator and update your controller in worksheet 1.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet2_SimpleSensorModel_ResponseCurve.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet2_SimpleSensorModel_ResponseCurve.ipynb)
 
 
 ## Day 3: Sensor Noise

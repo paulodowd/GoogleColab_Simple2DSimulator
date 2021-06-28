@@ -2,11 +2,11 @@
 
 Welcome to the exercise worksheets!
 
-## Day 1: A Minimal 2D Simulator
+## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_2D_Simulator.ipynb) Day 1: A Minimal 2D Simulator
 
 In this worksheet we will develop a controller to make decisions for the robot.  You can investigate using python to read the simulated sensors and to steer the robot away from obstructions.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_2D_Simulator.ipynb)
+
 
 ## Day 2: Sensor Response
 

@@ -14,9 +14,11 @@ In this worksheet we will learn about a more realistic response from a sensor us
 
 
 
-## Day 3: Sensor Noise
+## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet3_SimpleSensorModel_Noise.ipynb) Day 3: Sensor Noise
 
-## Day 4: Updating your Controller
+In this worksheet we will learn about the variability of sensor readings and how to create a simple model of this in our minimal simulator.  You can then update your simulator and controller in worksheet 1.
+
+## Day 4: ???
 
 ## Day 5: ???
 

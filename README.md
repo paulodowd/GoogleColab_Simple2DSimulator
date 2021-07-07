@@ -31,7 +31,7 @@ If you have not used Python or Google Colab before, it will be useful to read th
 <img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/images/c_navigation.png?raw=true">
     </td>
     <td>
-      In this worksheet we will develop a more advanced controller for the simulated robot.  You can discovering an obstruction and then control the simulated robot to navigate around the obstruction at close proximity.
+      In this worksheet we will develop a more advanced controller for the simulated robot.  You can write behaviours for the robot to discover an obstruction and then to control the simulated robot to navigate around the obstruction at close proximity.
     </td>
   </tr>
  </table>

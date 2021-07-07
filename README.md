@@ -3,13 +3,23 @@
 Welcome to the exercise worksheets!  All of these worksheets are intended to be used interactively within <a href="https://research.google.com/colaboratory/">Google Colab</a>.  You should be able to save them into your own workspace.  You will need a <a href="https://www.google.com/account/about/">Google account</a> to do so.  
 
 
-## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_2D_Simulator.ipynb) Day 1: A Minimal 2D Simulator
+## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_ObstacleAvoidance.ipynb) Day 1: Obstacle Avoidance
 
-In this worksheet we will develop a controller to make decisions for the robot.  You can investigate using python to read the simulated sensors and to steer the robot away from obstructions.
+<table>
+  <tr>
+    <td>
+<img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/images/obs_avoidance.png?raw=true">
+    </td>
+    <td>
+      In this worksheet we will develop a controller to make decisions for the robot.  You can investigate using python to read the simulated sensors and to steer the robot away from obstructions.
+    </td>
+  </tr>
+ </table>
 
 
 
-## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet2_SimpleSensorModel_ResponseCurve.ipynb) Day 2: Sensor Response
+
+## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet2_Circumnavigation.ipynb) Day 2: Circumnavigation
 
 In this worksheet we will learn about a more realistic response from a sensor used in robotics.  We will consider how to model a real sensor in our minimal 2D simulator.  You can then update your simulator and update your controller in worksheet 1.
 

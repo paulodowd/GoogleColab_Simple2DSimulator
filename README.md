@@ -30,7 +30,7 @@ Welcome to the exercise worksheets!  All of these worksheets are intended to be 
 <img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/images/c_navigation.png?raw=true">
     </td>
     <td>
-      In this worksheet we will develop a more advanced controller for the simulated robot.  You can discovering an obstruction and then controlling the simulated robot to navigated around the obstruction at close proximity.
+      In this worksheet we will develop a more advanced controller for the simulated robot.  You can discovering an obstruction and then control the simulated robot to navigate around the obstruction at close proximity.
     </td>
   </tr>
  </table>

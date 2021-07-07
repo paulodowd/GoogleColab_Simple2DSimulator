@@ -50,7 +50,7 @@ If you have not used Python or Google Colab before, it will be useful to read th
   </tr>
  </table>
 
-## Day 4: ???
+## Day 4: Sensor Noise
 In this worksheet we will learn about the variability of sensor readings and how to create a simple model of this in our minimal simulator.  You can then update your simulator and controller in worksheet 1.
 
 ## Day 5: ???

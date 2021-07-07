@@ -45,7 +45,7 @@ If you have not used Python or Google Colab before, it will be useful to read th
 <img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/images/mapping.png?raw=true" width="350px">
     </td>
     <td>
-      In this worksheet we will develop combine previous work to produce a map of the simulated environment.  You will need to develop a strategy and an advance controller to explore the environment efficiently.
+      In this worksheet we will combine previous work to record a map of the simulated environment.  You will need to develop a strategy and an advance controller to explore the environment efficiently.
     </td>
   </tr>
  </table>

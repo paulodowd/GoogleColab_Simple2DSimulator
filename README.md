@@ -53,11 +53,8 @@ If you have not used Python or Google Colab before, it will be useful to read th
 ## Day 4: Sensor Noise
 In this worksheet we will learn about the variability of sensor readings and how to create a simple model of this in our minimal simulator.  You can then update your simulator and controller in worksheet 1.
 
-## Day 5: ???
+## Day 5: Explore!
 
-
-
-
-In this worksheet we will learn about a more realistic response from a sensor used in robotics.  We will consider how to model a real sensor in our minimal 2D simulator.  You can then update your simulator and update your controller in worksheet 1.
+We've kept this day free of a new exercise sheet so that you can explore any of the previous sheets and take them further if you wish.  You'll be able to ask for support on any related questions during the teaching session.
 
 

@@ -2,10 +2,21 @@
 
 Welcome to the exercise worksheets!  All of these worksheets are intended to be used interactively within <a href="https://research.google.com/colaboratory/">Google Colab</a>.  You should be able to save them into your own workspace.  You will need a <a href="https://www.google.com/account/about/">Google account</a> to do so.  
 
-## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_ObstacleAvoidance.ipynb) Info: Getting Started
+## Info: Getting Started
 
-If you have not used Python or Google Colab before, it will be useful to read this worksheet.  
+If you have not used Python before, the following exercise sheets will help you to get started:
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/01_Operators.ipynb) Python: Operators
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/02_Control_Flow.ipynb) Python: Control Flow
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/03_Loops.ipynb) Python: Loops
+
+
+
+https://github.com/
+https://github.com/
+https://github.com/
 
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_ObstacleAvoidance.ipynb) Day 1: Obstacle Avoidance
 

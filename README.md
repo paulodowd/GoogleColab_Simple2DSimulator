@@ -4,7 +4,7 @@ Welcome to the exercise worksheets!  All of these worksheets are intended to be 
 
 ## Info: Getting Started
 
-If you have not used Python before, the following exercise sheets will help you to get started:
+If you have not used Python of Google Colab before, the following exercise sheets will help you to get started:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/01_Operators.ipynb) **Python: Operators**
 
@@ -12,9 +12,7 @@ If you have not used Python before, the following exercise sheets will help you 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/03_Loops.ipynb) **Python: Loops**
 
-If you have not used Google Colab before, the following worksheet may help you to get started:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/notebooks/intro.ipynb) **Google Colab**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb) **Google Colab**
 
 
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_ObstacleAvoidance.ipynb) Day 1: Obstacle Avoidance

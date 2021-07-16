@@ -9,20 +9,14 @@ Welcome to the exercise worksheets!  All of these worksheets are intended to be 
 
 If you have not used Python of Google Colab before, the following exercise sheets will help you to get started:
 
-<table>
-  <tr>
-    <td> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/01_Operators.ipynb)</td><td>**Python: Operators:** Performing basic calculations, Making comparisons between variables, Using comparisons and other Boolean True or False values to form logic statements.</td>    
-  </tr> <tr>
-    <td>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/02_Control_Flow.ipynb) </td><td> **Python: Control Flow**</td> 
-    </tr> <tr>
-    <td> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/03_Loops.ipynb)</td><td> **Python: Loops**</td> 
-    </tr> <tr>
-    <td>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb) </td><td> **Google Colab**</td> 
-    
-  </tr>
-</table>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/01_Operators.ipynb) **Python: Operators:** Performing basic calculations, Making comparisons between variables, Using comparisons and other Boolean True or False values to form logic statements.
 
- 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/02_Control_Flow.ipynb) **Python: Control Flow**
+    
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/03_Loops.ipynb) **Python: Loops**
+    
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb) **Google Colab**
+    
 
 
 

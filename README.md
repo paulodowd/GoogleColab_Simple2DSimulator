@@ -9,14 +9,14 @@ Welcome to the exercise worksheets!  All of these worksheets are intended to be 
 
 If you have not used Python of Google Colab before, the following exercise sheets will help you to get started:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/01_Operators.ipynb) ### Python: Operators 
+### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/01_Operators.ipynb) Python: Operators 
 Performing basic calculations, Making comparisons between variables, Using comparisons and other Boolean True or False values to form logic statements.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/02_Control_Flow.ipynb) ### Python: Control Flow
+### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/02_Control_Flow.ipynb) Python: Control Flow
     
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/03_Loops.ipynb) ### Python: Loops
+### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/03_Loops.ipynb) Python: Loops
     
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb) ### Google Colab 
+### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb) Google Colab 
     
 
 

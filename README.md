@@ -13,10 +13,13 @@ If you have not used Python of Google Colab before, the following exercise sheet
 Performing basic calculations, Making comparisons between variables, Using comparisons and other Boolean True or False values to form logic statements.
 
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/02_Control_Flow.ipynb) Python: Control Flow
+Making decisions within a program to direct the flow of the program execution.
     
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/03_Loops.ipynb) Python: Loops
+Controllably repeating operations within a program. 
     
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb) Google Colab 
+Colaboratory, or 'Colab' for short, allows you to write and execute Python in your browser, with Zero configuration required, Free access to GPUs, & Easy sharing.  Whether you're a student, a data scientist or an AI researcher, Colab can make your work easier.
     
 <br><br><br>
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_ObstacleAvoidance.ipynb) Day 1: Obstacle Avoidance

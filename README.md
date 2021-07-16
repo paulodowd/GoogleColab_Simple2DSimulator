@@ -74,7 +74,7 @@ In this worksheet we will learn about the variability of sensor readings and how
 <img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/img/Following.png?raw=true" width="350px">
     </td>
     <td>
-      In this worksheet we will combine previous work to record a map of the simulated environment.  You will need to develop a strategy and an advance controller to explore the environment efficiently.
+      In this worksheet we explore the challenges of a real sensor, the Pololu SDS02A.  The simulator has been updated and you are challenged to write a controller to follow another robot.  
     </td>
   </tr>
  </table>

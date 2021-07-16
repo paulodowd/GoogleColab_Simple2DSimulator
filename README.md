@@ -18,12 +18,7 @@ Performing basic calculations, Making comparisons between variables, Using compa
     
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb) Google Colab 
     
-
-
-
-
-
-
+<br><br><br><br>
 
 
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_ObstacleAvoidance.ipynb) Day 1: Obstacle Avoidance

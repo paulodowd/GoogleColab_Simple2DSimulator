@@ -23,7 +23,7 @@ If you have not used Python of Google Colab before, the following exercise sheet
 <table>
   <tr>
     <td>
-<img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/images/obs_avoidance.png?raw=true" width="350px">
+<img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/img/obs_avoidance.png?raw=true" width="350px">
     </td>
     <td>
       In this worksheet we will develop a controller to make decisions for the simulated robot.  You can investigate using python to read the simulated sensors and to steer the robot away from obstructions.
@@ -39,7 +39,7 @@ If you have not used Python of Google Colab before, the following exercise sheet
 <table>
   <tr>
     <td>
-<img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/images/c_navigation.png?raw=true" width="350px">
+<img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/img/c_navigation.png?raw=true" width="350px">
     </td>
     <td>
       In this worksheet we will develop a more advanced controller for the simulated robot.  You can write behaviours for the robot to discover an obstruction and then to control the simulated robot to navigate around the obstruction at close proximity.
@@ -53,7 +53,7 @@ If you have not used Python of Google Colab before, the following exercise sheet
 <table>
   <tr>
     <td>
-<img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/images/mapping.png?raw=true" width="350px">
+<img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/img/mapping.png?raw=true" width="350px">
     </td>
     <td>
       In this worksheet we will combine previous work to record a map of the simulated environment.  You will need to develop a strategy and an advance controller to explore the environment efficiently.
@@ -69,7 +69,7 @@ In this worksheet we will learn about the variability of sensor readings and how
 <table>
   <tr>
     <td>
-<img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/images/Following.png?raw=true" width="350px">
+<img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/img/Following.png?raw=true" width="350px">
     </td>
     <td>
       In this worksheet we will combine previous work to record a map of the simulated environment.  You will need to develop a strategy and an advance controller to explore the environment efficiently.

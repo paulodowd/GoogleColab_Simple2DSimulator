@@ -4,7 +4,6 @@ Developed by: <a href="https://www.bristol.ac.uk/people/person/Paul-O'Dowd-d54e9
 
 Welcome to the exercise worksheets!  All of these worksheets are intended to be used interactively within <a href="https://research.google.com/colaboratory/">Google Colab</a>.  You should be able to save them into your own workspace.  You may need a <a href="https://www.google.com/account/about/">Google account</a> to do so.  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/TestSheet.ipynb) **Test Sheet**
 
 <br><br><br>
 ## Info: Getting Started

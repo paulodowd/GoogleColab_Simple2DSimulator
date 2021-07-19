@@ -2,7 +2,18 @@
 
 Developed by: <a href="https://www.bristol.ac.uk/people/person/Paul-O'Dowd-d54e9ad6-41de-4eef-81c6-1ee227ced8dc">Paul O'Dowd</a> & <a href="https://www.bristol.ac.uk/people/person/Hemma-Philamore-c3c8acb0-fcce-4792-9249-2efccb92145f">Hemma Philamore</a>. 
 
-Welcome to the exercise worksheets!  All of these worksheets are intended to be used interactively within <a href="https://research.google.com/colaboratory/">Google Colab</a>.  You should be able to save them into your own workspace.  You may need a <a href="https://www.google.com/account/about/">Google account</a> to do so.  
+Welcome to the exercise sheets!  All of these exercise sheets are intended to be used interactively within <a href="https://research.google.com/colaboratory/">Google Colab</a>.  You should be able to save them into your own workspace.  You may need a <a href="https://www.google.com/account/about/">Google account</a> to do so.  
+
+These exercise sheets are intended to provide a very quick introduction to the general frame of thinking required when working in robotics.  This includes:
+- Developing control software which runs iteratively, and without end.
+- To anticipate that whilst a very good solution to a task is possible, the task can easily be made more challenging.
+- To appreciate that the complexity of a task and therefore suitable solutions can increase very quickly.  
+
+These exercise sheets challenge you to move through a set of tasks which build upon the last, but with escalating complexity. These are:
+1. Obstacle Avoidance behaviour
+2. Circumnavigation Behaviour
+3. Navigation for Mapping (coverage)
+4. Following another robot with noisy sensors.
 
 
 <br><br><br>

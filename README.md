@@ -9,7 +9,7 @@ These exercise sheets are intended to provide a very quick introduction to the g
 - To anticipate that whilst a very good solution to a task is possible, the task can easily be made more challenging.
 - To appreciate that the complexity of a task and therefore suitable solutions can increase very quickly.  
 
-These exercise sheets challenge you to move through a set of tasks which build upon the last, but with escalating complexity. These are:
+These exercise sheets challenge you to move through a set of tasks which build upon the last, with escalating complexity. These are:
 1. Obstacle Avoidance Behaviour
 2. Circumnavigation Behaviour
 3. Navigation for Mapping (coverage)

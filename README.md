@@ -49,7 +49,7 @@ Colaboratory, or 'Colab' for short, allows you to write and execute Python in yo
  </table>
 
 <br><br><br>
-## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet2_Circumnavigation.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet2_Circumnavigation.ipynb) Day 2: Circumnavigation
+## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet2_Circumnavigation.ipynb) Day 2: Circumnavigation
 
 <table>
   <tr>
@@ -63,7 +63,7 @@ Colaboratory, or 'Colab' for short, allows you to write and execute Python in yo
  </table>
 
 <br><br><br>
-## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet3_Mapping.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet3_Mapping.ipynb) Day 3: Mapping
+## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet3_Mapping.ipynb) Day 3: Mapping
 
 <table>
   <tr>
@@ -77,7 +77,7 @@ Colaboratory, or 'Colab' for short, allows you to write and execute Python in yo
  </table>
 
 <br><br><br>
-## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet4_SensorNoise.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet4_SensorNoise.ipynb) Day 4: Sensor Noise
+## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet4_SensorNoise.ipynb)  Day 4: Sensor Noise
 
 
 <table>

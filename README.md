@@ -15,6 +15,7 @@ These exercise sheets challenge you to move through a set of tasks which build u
 3. Navigation for Mapping (coverage)
 4. Following another robot with noisy sensors.
 
+These exercise sheets serve as a brief introduction, so you are given the freedom to be creative and to explore the nature of the problem space.  
 
 <br><br><br>
 ## Info: Getting Started

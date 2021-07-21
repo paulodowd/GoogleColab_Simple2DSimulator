@@ -35,7 +35,7 @@ Controllably repeating operations within a program.
 Colaboratory, or 'Colab' for short, allows you to write and execute Python in your browser, with Zero configuration required, Free access to GPUs, & Easy sharing.  Whether you're a student, a data scientist or an AI researcher, Colab can make your work easier.
 
 ### Jupyter / Anaconda:
-If you cannot access Google Colab, then you may wish to install Jupyter/Anaconda on your own computer to run these files locally.   
+If you cannot access Google Colab, then you may wish to install Jupyter/Anaconda on your own computer to run these files locally.   You will also need to download the files from this github repository.
 <a href="https://test-jupyter.readthedocs.io/en/latest/install.html">Install Jupyter/Anaconda</a>
 
 

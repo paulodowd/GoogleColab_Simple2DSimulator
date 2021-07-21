@@ -17,7 +17,7 @@ These exercise sheets challenge you to move through a set of tasks which build u
 
 These exercise sheets serve as a brief introduction, so you are given the freedom to be creative and to explore the nature of the problem space.  
 
-<br><br><br>
+<br><br>
 ## Info: Getting Started
 
 If you have not used Python of Google Colab before, the following exercise sheets will help you to get started:
@@ -39,8 +39,8 @@ If you cannot access Google Colab, then you may wish to install Jupyter/Anaconda
 <a href="https://test-jupyter.readthedocs.io/en/latest/install.html">Install Jupyter/Anaconda</a>
 
 
-
-<br><br><br>
+<br>
+<hr>
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_ObstacleAvoidance.ipynb) Day 1: Obstacle Avoidance
 
 <table>
@@ -54,7 +54,7 @@ If you cannot access Google Colab, then you may wish to install Jupyter/Anaconda
   </tr>
  </table>
 
-<br><br><br>
+<hr>
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet2_Circumnavigation.ipynb) Day 2: Circumnavigation
 
 <table>
@@ -68,7 +68,7 @@ If you cannot access Google Colab, then you may wish to install Jupyter/Anaconda
   </tr>
  </table>
 
-<br><br><br>
+<hr>
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet3_Mapping.ipynb) Day 3: Mapping
 
 <table>
@@ -82,7 +82,7 @@ If you cannot access Google Colab, then you may wish to install Jupyter/Anaconda
   </tr>
  </table>
 
-<br><br><br>
+<hr>
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet4_SensorNoise.ipynb)  Day 4: Sensor Noise
 
 
@@ -97,7 +97,7 @@ If you cannot access Google Colab, then you may wish to install Jupyter/Anaconda
   </tr>
  </table>
  
-<br><br><br>
+<hr>
 ## Day 5: Explore!
 
 We've kept this day free of a new exercise sheet so that you can explore any of the previous sheets and take them further if you wish.  You'll be able to ask for support on any related questions during the teaching session.

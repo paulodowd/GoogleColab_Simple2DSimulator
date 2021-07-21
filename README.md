@@ -40,7 +40,7 @@ If you cannot access Google Colab, then you may wish to install Jupyter/Anaconda
 
 
 <br>
-<hr>
+<hr><br><br>
 
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_ObstacleAvoidance.ipynb) Day 1: Obstacle Avoidance
 
@@ -55,7 +55,7 @@ If you cannot access Google Colab, then you may wish to install Jupyter/Anaconda
   </tr>
  </table>
 
-<hr>
+<hr><br><br>
 
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet2_Circumnavigation.ipynb) Day 2: Circumnavigation
 
@@ -70,7 +70,7 @@ If you cannot access Google Colab, then you may wish to install Jupyter/Anaconda
   </tr>
  </table>
 
-<hr>
+<hr><br><br>
 
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet3_Mapping.ipynb) Day 3: Mapping
 
@@ -85,7 +85,7 @@ If you cannot access Google Colab, then you may wish to install Jupyter/Anaconda
   </tr>
  </table>
 
-<hr>
+<hr><br><br>
 
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet4_SensorNoise.ipynb)  Day 4: Sensor Noise
 
@@ -101,7 +101,7 @@ If you cannot access Google Colab, then you may wish to install Jupyter/Anaconda
   </tr>
  </table>
  
-<hr>
+<hr><br><br>
 
 ## Day 5: Explore!
 

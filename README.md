@@ -17,6 +17,8 @@ These exercise sheets challenge you to move through a set of tasks which build u
 
 These exercise sheets serve as a brief introduction, so you are given the freedom to be creative and to explore the nature of the problem space.  
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//paulodowd/GoogleColab_Simple2DSimulator/blob/main/TestSheet.ipynb)  **Test Sheet:** You can quickly test you can access Google Colab and these exercise sheets by clicking the button on the left. 
+
 <br><br>
 ## Info: Getting Started
 

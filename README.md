@@ -17,7 +17,9 @@ These exercise sheets challenge you to move through a set of tasks which build u
 
 These exercise sheets serve as a brief introduction, so you are given the freedom to be creative and to explore the nature of the problem space.  
 
-<br><br><br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//paulodowd/GoogleColab_Simple2DSimulator/blob/main/TestSheet.ipynb)  **Test Sheet:** You can quickly test you can access Google Colab and these exercise sheets by clicking the button on the left. 
+
+<br><br>
 ## Info: Getting Started
 
 If you have not used Python of Google Colab before, the following exercise sheets will help you to get started:
@@ -33,8 +35,13 @@ Controllably repeating operations within a program.
     
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb) Google Colab 
 Colaboratory, or 'Colab' for short, allows you to write and execute Python in your browser, with Zero configuration required, Free access to GPUs, & Easy sharing.  Whether you're a student, a data scientist or an AI researcher, Colab can make your work easier.
-    
-<br><br><br>
+
+### Jupyter / Anaconda:
+If you cannot access Google Colab, then you may wish to install Jupyter/Anaconda on your own computer to run these files locally.   You will also need to download the files from this github repository.
+<a href="https://test-jupyter.readthedocs.io/en/latest/install.html">Install Jupyter/Anaconda</a>
+
+<br><br>
+
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_ObstacleAvoidance.ipynb) Day 1: Obstacle Avoidance
 
 <table>
@@ -48,7 +55,8 @@ Colaboratory, or 'Colab' for short, allows you to write and execute Python in yo
   </tr>
  </table>
 
-<br><br><br>
+<hr><br><br>
+
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet2_Circumnavigation.ipynb) Day 2: Circumnavigation
 
 <table>
@@ -62,7 +70,8 @@ Colaboratory, or 'Colab' for short, allows you to write and execute Python in yo
   </tr>
  </table>
 
-<br><br><br>
+<hr><br><br>
+
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet3_Mapping.ipynb) Day 3: Mapping
 
 <table>
@@ -76,7 +85,8 @@ Colaboratory, or 'Colab' for short, allows you to write and execute Python in yo
   </tr>
  </table>
 
-<br><br><br>
+<hr><br><br>
+
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet4_SensorNoise.ipynb)  Day 4: Sensor Noise
 
 
@@ -91,7 +101,8 @@ Colaboratory, or 'Colab' for short, allows you to write and execute Python in yo
   </tr>
  </table>
  
-<br><br><br>
+<hr><br><br>
+
 ## Day 5: Explore!
 
 We've kept this day free of a new exercise sheet so that you can explore any of the previous sheets and take them further if you wish.  You'll be able to ask for support on any related questions during the teaching session.

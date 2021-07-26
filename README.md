@@ -40,6 +40,8 @@ Colaboratory, or 'Colab' for short, allows you to write and execute Python in yo
 If you cannot access Google Colab, then you may wish to install Jupyter/Anaconda on your own computer to run these files locally.   You will also need to download the files from this github repository.
 <a href="https://test-jupyter.readthedocs.io/en/latest/install.html">Install Jupyter/Anaconda</a>
 
+A short how-to on running these sheets within Anaconda/Jupyter is <a href="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/raw/main/anaconda_instructions.pdf">available here</a>.
+
 <br><br>
 
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_ObstacleAvoidance.ipynb) Day 1: Obstacle Avoidance
